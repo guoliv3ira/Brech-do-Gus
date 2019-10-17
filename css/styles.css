@@ -14,8 +14,15 @@
 }
 .tituloCar{
 	text-shadow: 0.1em 0.1em 0.2em #333;
+	font-size: 18px;
 }
 
 .parCar{
 	text-shadow: 0.1em 0.1em 0.2em #333;
+	font-size: 14px;
+}
+
+.imgCar{
+	height: 800px;
+
 }
