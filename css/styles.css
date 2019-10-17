@@ -2,7 +2,8 @@
 	padding-top: 5em;
 }
 #navega{
-	background-color: #FFF";
+background: #FFF;
+border-bottom: 1px solid #666;
 }
 
 .card-subtitle{
@@ -22,3 +23,9 @@
 	font-size: 14px;
 }
 
+.card-img-top{
+	width: 150px;
+	height: auto;
+	align-self: center;
+	padding-top: 10px;
+}
